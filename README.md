@@ -17,4 +17,11 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 ### How to reach me iphone
 
 Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubuntu&channel=fs&q=kiranhipparagi&ie=utf-8&oe=utf-8)
-<i class="ri-twitter-line"></i>(https://twitter.com/KiranHipparagi)
+
+[<img align="left" alt="https://kiranhipparagik.wixsite.com/mysite-1" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="KiranHipparagi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kiran-hipparagi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
