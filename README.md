@@ -27,17 +27,17 @@ Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubunt
 [![alt text][6.1]][6]
 
 
-[1.1]: https://imgur.com/Kx6VzOa.png (twitter icon with padding)
-[2.1]: https://imgur.com/PXyIkWx.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[1.1]: https://imgur.com/PXyIkWx.png (linkedin icon with padding)
+[2.1]: https://imgur.com/Kx6VzOa.png (twitter icon with padding)
+[3.1]: https://imgur.com/HItyXh3.png (whatsapp icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (instagram icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
-[1]: http://www.twitter.com/KiranHipparagi
-[2]: http://www.linkedin.com/in/kiran-hipparagi-20272b171
-[3]: https://plus.google.com/+CarlSednaoui
+[1]: http://www.linkedin.com/in/kiran-hipparagi-20272b171
+[2]: http://www.twitter.com/KiranHipparagi
+[3]: https://wa.me/qr/CXKAMQQRDQUMF1
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
