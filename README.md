@@ -28,7 +28,7 @@ Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubunt
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://i.imgur.com/0IdggSZ.png (facebook icon with padding)
+[2.1]: https://imgur.com/PXyIkWx.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
