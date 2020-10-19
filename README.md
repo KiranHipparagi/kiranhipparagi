@@ -36,7 +36,7 @@ Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubunt
 
 
 [1]: http://www.twitter.com/KiranHipparagi
-[2]: http://www.facebook.com/sednaoui
+[2]: http://www.linkedin.com/in/kiran-hipparagi-20272b171
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
