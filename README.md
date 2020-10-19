@@ -28,7 +28,8 @@ Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubunt
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: 
+file:///home/kiran/Downloads/icons8-linkedin-24.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
@@ -42,12 +43,4 @@ Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubunt
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/USERNAME"
