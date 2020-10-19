@@ -41,4 +41,8 @@ Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubunt
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
-:facebook:
+
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/kiran-hipparagi-20272b171/"
