@@ -42,7 +42,12 @@ Known on internet as [kiranhipparagi](https://www.google.com/search?client=ubunt
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
-[[params.social]]
+ [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/kiran-hipparagi-20272b171/"
+    link = "//linkedin.com/in/USERNAME"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
