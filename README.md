@@ -8,11 +8,11 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Languages:** Python, SQL, HTML, CSS, JavaScript.
 
-**Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+**Framework:** Flask, Bootstrap.
 
-**Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+**Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing.
 
 ### How to reach me :iphone:
 
