@@ -6,7 +6,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 ### Things I'm good at :fire:
 
-**Languages:** Python, SQL, HTML, CSS, JavaScript.
+**Languages:** Python, SQL, HTML, CSS.
 
 **Framework:** Flask, Bootstrap.
 
